@@ -50,5 +50,5 @@ end
 Execute the bash script on the Slave node and verify that the PHP application is accessible through the VM's IP address (take screenshot of this as evidence)
 [Ansible Playbook](deploy_lamp.yml)
 ![Ansible playbook run](Images/ansible_playbook.JPG)
-<br>
+
 ![Laravel Home Page](Images/Home_Page.JPG)
